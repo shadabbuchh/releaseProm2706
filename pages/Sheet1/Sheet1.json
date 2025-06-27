@@ -1,23 +1,23 @@
 {
-  "gitSyncId": "64c252a12e389c399f6f64ca_64c271622e389c399f6f64e8",
+  "gitSyncId": "685e201fb994ef3a40a85bda_d1940c7b-7052-4586-976d-744a6f32089e",
   "unpublishedPage": {
-    "isHidden": false,
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 520,
+          "bottomRow": 870,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
           "dynamicBindingPathList": [],
+          "dynamicTriggerPathList": [],
           "leftColumn": 0,
-          "minHeight": 550,
+          "minHeight": 890,
           "parentColumnSpace": 1,
           "parentRowSpace": 1,
-          "rightColumn": 1224,
+          "rightColumn": 1174,
           "snapColumns": 64,
-          "snapRows": 53,
+          "snapRows": 125,
           "topRow": 0,
           "type": "CANVAS_WIDGET",
           "version": 94,
@@ -26,7 +26,7 @@
         }
       }
     ],
-    "name": "GSheetsRWDSel1Column",
-    "slug": "gsheetsrwdsel1column"
+    "name": "Sheet1",
+    "slug": "sheet1"
   }
 }
