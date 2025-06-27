@@ -287,9 +287,9 @@
           "borderRadius": "{{((sourceData, formData, fieldState) => ((appsmith.theme.borderRadius.appBorderRadius)))(update_form.sourceData, update_form.formData, update_form.fieldState)}}",
           "boxShadow": "none",
           "children": {},
-          "dataType": "string",
+          "dataType": "number",
           "defaultValue": "{{((sourceData, formData, fieldState) => (sourceData[\"      3_Destiρatioσ Ø😂\"]))(update_form.sourceData, update_form.formData, update_form.fieldState)}}",
-          "fieldType": "Text Input",
+          "fieldType": "Number Input",
           "iconAlign": "left",
           "identifier": "xn________3_Destiatio__knb800mlb97696s",
           "isCustomField": false,
@@ -301,7 +301,7 @@
           "labelTextSize": "0.875rem",
           "originalIdentifier": "      3_Destiρatioσ Ø😂",
           "position": 3,
-          "sourceData": ""
+          "sourceData": 100
         }
       },
       "dataType": "object",
